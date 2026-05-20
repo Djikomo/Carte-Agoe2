@@ -2,7 +2,7 @@
   "name": "Carte Géo AGOE2",
   "short_name": "Carte AGOE2",
   "description": "Visualisation géographique des parcelles AGOE2",
-  "start_url": "./carte_agoe2.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f1117",
   "theme_color": "#0f1117",
